@@ -6,7 +6,7 @@ This repository contains a collection of image processing and optimization techn
 
 Below is a stitched image showcasing the results of various image processing techniques applied to a sample image:
 
-![Stitched Image with Labels](data/stitched_image.jpg)
+![Stitched Image with Labels](stitched_image.jpg)
 
 ## Steps Included
 
